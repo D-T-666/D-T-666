@@ -20,11 +20,10 @@
 ![Age](https://img.shields.io/badge/Age-16-darkgreen)
 ![location](https://img.shields.io/badge/Live%20in-Georgia-red)
 
-- 🔭 I’m currently working on [wave-function-collapse-p5](https://github.com/D-T-666/wave-function-collapse-p5)
-- 🌱 I’m currently learning javascript/python
-- 👯 I’m looking to collaborate on anything good I guess
-- 📫 How to reach me: discord: `D.Tabatadze#7972`
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on [wave-function-collapse-p5](https://github.com/D-T-666/wave-function-collapse-p5) (on hold)
+- 🌱 I’m currently learning javascript, python, drawing, writing.
+- 👯 I’m looking to collaborate on anything fun
+- 📫 discord: `Dimitir.T.6#7972`
 - ⚡ Fun fact: I have [a game](https://play.google.com/store/apps/details?id=com.dima.dash) on Google Play!
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=D-T-666)](https://github.com/anuraghazra/github-readme-stats)
