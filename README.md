@@ -25,6 +25,5 @@
 - 📫 [discord](https://discord.com/): `Dimitri.T.6#7972`
 - ⚡ I have [a game](https://play.google.com/store/apps/details?id=com.dima.dash) on Google Play!
 - 💖 I am in love with [New Shepard](https://www.blueorigin.com/new-shepard/)
-- 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=D-T-666)](https://github.com/anuraghazra/github-readme-stats)
