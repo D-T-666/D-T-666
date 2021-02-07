@@ -20,7 +20,7 @@
 
 ![location](https://img.shields.io/badge/Live%20in-Georgia-red)
 
-- 🔭 I’m currently working on rcoket-sim-1D
+- 🔭 I’m currently working on [cxrili](https://github.com/D-T-666/cxrili/)
 - 🌱 I’m currently learning [Gudance Navigarion and Controll (GNC) engineering](https://en.wikipedia.org/wiki/Guidance,_navigation,_and_control). (basically rocket science)
 - 📫 [discord](https://discord.com/): `Dimitri.T.6#7972`
 - ⚡ I have [a game](https://play.google.com/store/apps/details?id=com.dima.dash) on Google Play!
