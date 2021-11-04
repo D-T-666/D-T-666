@@ -18,12 +18,11 @@
 
 <br><br>
 
-![location](https://img.shields.io/badge/Live%20in-Georgia-red)
-
-- 🔭 I’m currently working on [cxrili](https://github.com/D-T-666/cxrili/)
+- I am trying to migrate to Gitlab. [Me on gitlab](https://gitlab.com/D-T-6)
+- 🔭 I’m currently working on a lot of stuff, but primaraly school
 - 🌱 I’m currently learning [Gudance Navigarion and Controll (GNC) engineering](https://en.wikipedia.org/wiki/Guidance,_navigation,_and_control). (basically rocket science)
-- 📫 [discord](https://discord.com/): `Dimitri.T.6#7972`
-- ⚡ I have [a game](https://play.google.com/store/apps/details?id=com.dima.dash) on Google Play!
+- 📫 [discord](https://discord.com/): `Taraxacum#7972`
+- 📫 Matrix: [@dimitrit:matrix.org](https://matrix.to/#/@dimitrit:matrix.org)
 - 💖 I am in love with [New Shepard](https://www.blueorigin.com/new-shepard/)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=D-T-666)](https://github.com/anuraghazra/github-readme-stats)
