@@ -1,4 +1,4 @@
-# [dimitri.ge](https://dimitri.ge)
+# [dimitri.ge](https://dimitri.ge) (.ge because I am Georgian)
 
 <div style="display:flex">
   <img alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
