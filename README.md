@@ -1,26 +1,23 @@
 # [dimitri.ge](https://dimitri.ge) (.ge because I am Georgian)
 
-<div style="display:flex">
-  <img alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-  <img alt="Javascript" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-  <img alt="cpp" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
-  <img alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-  <img alt="Github" width="35px" src="https://www.kindpng.com/picc/m/255-2558173_github-logo-png-transparent-png.png" />
-  <img alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-  <img alt="Node Js" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-  <img alt="java" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
-  <img alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-  <img alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-  <img alt="Flutter" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" />
-  <img alt="Dart" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" />
-  <img alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-  <img alt="typescript" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
-  <img alt="p5js" width="35px" src="https://hello.p5js.org/assets/p5-sq-reverse.svg" />
-  <img alt="processing" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/800px-Processing_2021_logo.svg.png" />
-  <img alt="linux" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg" />
-  <img alt="markdown" width="35px" src="https://www.iconbolt.com/iconsets/remix-icon-fill/markdown.svg" />
-  <img alt="sass" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
+![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![p5js](https://img.shields.io/badge/p5.js-ed225d?style=for-the-badge&logo=p5.js&logoColor=white)
+![processing](https://img.shields.io/badge/processing-0f195a?style=for-the-badge&logo=processing&logoColor=white)
+![react](https://img.shields.io/badge/react-282c34?style=for-the-badge&logo=react&logoColor=61dafb)
+![java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=white)
+![vscode](https://img.shields.io/badge/VScode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
+![sass](https://img.shields.io/badge/sass\/scss-f7e4e8?style=for-the-badge&logo=sass&logoColor=ff5478)
+![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=yelow)
+![dart](https://img.shields.io/badge/dart-lightblue?style=for-the-badge&logo=dart&logoColor=blue)
+![flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
