@@ -1,4 +1,4 @@
-# [dimitri.ge](https://dimitri.ge) (.ge because I am Georgian)
+# [dimitri.ge](https://dimitri.ge)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,7 +21,7 @@
 
 ---
 
-I like rockets. [Contact me](https://dimitri.ge/#contact-me). The people who come, see this page, and not star at least one of my repos, reportedly have more than double the odds of getting headaches due to dehydration. 
+I like rockets. Procedural generation rocks. [Contact me](https://dimitri.ge/#contact-me).
 
 ---
 
