@@ -17,7 +17,27 @@
 
 ---
 
+## looking for a job
+
+I can make some things for games and also **games**. I can automate small stuff, maybe even **big** stuff. I can do LaTeX/TikZ (not only math), procedural generation, proper formating of code, write clearer-than-average descriptions for programming things. And most importantly, I can make stuff work even if the stuff shouldn't work. I like math by the way.
+
+## previous work experience
+
+Worked for 3 months as a junior creative JS/TS developer at [glitch.ge](https://glitch.ge), was cool.
+
+## me
+
 I like rockets. Procedural generation rocks. [Contact me](https://dimitri.ge/#contact-me).
+
+## thoughts about teaching
+
+Teaching is cool. I like doing it. It makes me feel good.
+
+## job
+
+I want one
+
+
 
 ---
 
