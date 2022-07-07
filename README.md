@@ -14,6 +14,7 @@
 ![vscode](https://img.shields.io/badge/VScode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=yelow)
+![LaTeX](https://img.shields.io/badge/LaTeX-black?style=for-the-badge&logo=latex&logoColor=teal)
 
 ---
 
