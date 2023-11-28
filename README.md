@@ -1,5 +1,6 @@
 # [dimitri.ge](https://dimitri.ge)
 
+![Rust](https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
